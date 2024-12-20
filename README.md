@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Purushotam Kumar</h1>
 
 <p align="center">
-I'm a **MERN Stack Developer**  with a passion for building efficient and scalable web applications. I have solved over **600 DSA questions on LeetCode in C++**.
+I'm a <strong> MERN Stack Developer </strong> with a passion for building efficient and scalable web applications. I have solved over <strong> 600 DSA questions on LeetCode in C++ </strong>.
 </p>
 
 ---
