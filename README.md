@@ -1,40 +1,33 @@
-<img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="MasterHead" style="height:400px; width:full;">
+<img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="MasterHead" style="height:auto; width:full;">
 <h1 align="center">Hi 👋, I'm Purushotam Kumar</h1>
 
 I'm a **MERN Stack Developer** with a passion for building efficient and scalable web applications. I have solved over **600 DSA questions on LeetCode in C++**.
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between;">
+
   <div>
-    <h3>🔖 About Me:</h3>
-    <ul>
-      <li><strong>Education</strong>: Pursuing B.Tech in Computer Science Engineering</li>
-      <li><strong>Location</strong>: Indore, Madhya Pradesh (INDIA)</li>
-      <li><strong>Contributions</strong>: 88 contributions in the last year</li>
-      <li><strong>Organizations</strong>: <a href="https://github.com/Mind-Blowing-Mornings">Mind Blowing Mornings</a></li>
-    </ul>
+    ###  About Me:
+
+    - **Education**: Pursuing B.Tech in Computer Science Engineering
+    - **Location**: Indore, Madhya Pradesh (INDIA)
+    - **Contributions**: 88 contributions in the last year
+    - **Organizations**: ![Mind Blowing Mornings](https://github.com/Mind-Blowing-Mornings)
+
   </div>
+
   <div style="text-align: right;">
-    <h3>🔄 Connect with me:</h3>
+    <h3 align="right"> Connect with me:</h3>
     <p>
-      <a href="https://leetcode.com/puru0222/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puru0222" height="30" width="40" />
-      </a>
-      <a href="https://linkedin.com/in/https://www.linkedin.com/in/puru0222/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puru0222" height="30" width="40" />
-      </a>
-      <a href="https://twitter.com/puru0222" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puru0222" height="30" width="40" />
-      </a>
-      <a href="https://instagram.com/puru0222" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puru0222" height="30" width="40" />
-      </a>
+      <a href="https://leetcode.com/puru0222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puru0222" height="30" width="40" /></a>
+      <a href="https://linkedin.com/in/https://www.linkedin.com/in/puru0222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puru0222" height="30" width="40" /></a>
+      <a href="https://twitter.com/puru0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puru0222" height="30" width="40" /></a>
+      <a href="https://instagram.com/puru0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puru0222" height="30" width="40" /></a>
     </p>
   </div>
-</div>
 
----
+## </div>
 
 ### 🔧 Technologies and Tools:
 
