@@ -61,6 +61,8 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Puru0222&" alt="Puru0222" /></p>
 
+<div align="center"> <h3>🔥 GitHub Streak</h3> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puru0222&theme=highcontrast" alt="GitHub Streak" /> </div>
+
 ### 🌐 Top Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Puru0222&layout=compact&theme=radical)
@@ -73,14 +75,19 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 <a href="https://github.com/Puru0222?tab=followers"><img src="https://img.shields.io/github/followers/Puru0222?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 ---
+
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
  </p>
 
- <div style="background: linear-gradient(to right, #4facfe, #00f2fe); height: 150px;">
-    <svg viewBox="0 0 120 28" xmlns="http://www.w3.org/2000/svg">
-        <path d="M0 20L60 25L120 20V28H0V20Z" fill="#fff"></path>
-    </svg>
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10498744/211497763-7699ef8d-cce2-4ba0-95d9-d5a41cfaef1c.svg" alt="Gradient Header" />
+</p>
+
 
  <h3 align="center">Thank you for visiting my GitHub profile! Feel free to reach out and connect.</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header" />
+</p>
+
