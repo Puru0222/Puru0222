@@ -1,4 +1,4 @@
-# Hi 👋, I'm Purushotam Kumar
+<h1 align="center">Hi 👋, I'm Purushotam Kumar</h1>
 
 I'm a **MERN Stack Developer** with a passion for building efficient and scalable web applications. Currently pursuing my **B.Tech in Computer Science Engineering** (7th semester) in Indore, I have solved over **600 DSA questions on LeetCode** and have completed DSA in C++. My expertise lies in **JavaScript**, **C++**, and the **MERN stack**, and I have worked on projects like StudyNotion (an EdTech platform) and a Game E-Sports platform.
 
