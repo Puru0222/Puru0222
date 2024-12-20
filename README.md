@@ -6,9 +6,9 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 
 ### 🔖 About Me:
 - **Education**: Pursuing B.Tech in Computer Science Engineering
-- **Location**: Indore
-- **Contributions**: 85 contributions in the last year
-- **Organizations**: Study Notion, Authapp, fileUpload, ShopEasy, toure-plan
+- **Location**: Indore, Madhya Pradesh (INDIA)
+- **Contributions**: 88 contributions in the last year
+- **Organizations**: ![Mind Blowing Mornings](https://github.com/Mind-Blowing-Mornings)
 
 ---
 
