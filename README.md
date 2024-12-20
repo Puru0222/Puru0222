@@ -42,7 +42,7 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 ### 🟢 LeetCode Heatmap:
 
 <div align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Puru0222&theme=radical" alt="LeetCode Heatmap" />
+  <img src="https://leetcode-stats.vercel.app/api?username=Puru0222&theme=dark" alt="LeetCode Heatmap" />
 </div>
 
 
