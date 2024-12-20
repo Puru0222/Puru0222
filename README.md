@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+![MasterHead](https://raw.githubusercontent.com/Puru0222/fileUpload/a73d7648e5040cd58e5bd02ef12c1ac99941ac90/config/puru0222.gif)
 
 <h1 align="center">Hi 👋, I'm Purushotam Kumar</h1>
 
@@ -6,31 +6,19 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+### 🔖 About Me:
 
-  <div>
-    ###  About Me:
+- **Education**: Pursuing B.Tech in Computer Science Engineering
+- **Location**: Indore, Madhya Pradesh (INDIA)
+- **Contributions**: 88 contributions in the last year
+- **Organizations**: ![Mind Blowing Mornings](https://github.com/Mind-Blowing-Mornings)
 
-    - **Education**: Pursuing B.Tech in Computer Science Engineering
-    - **Location**: Indore, Madhya Pradesh (INDIA)
-    - **Contributions**: 88 contributions in the last year
-    - **Organizations**: ![Mind Blowing Mornings](https://github.com/Mind-Blowing-Mornings)
-
-  </div>
-
-  <div style="text-align: right;">
-    <h3 align="right"> Connect with me:</h3>
-    <p>
-      <a href="https://leetcode.com/puru0222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puru0222" height="30" width="40" /></a>
-      <a href="https://linkedin.com/in/https://www.linkedin.com/in/puru0222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puru0222" height="30" width="40" /></a>
-      <a href="https://twitter.com/puru0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puru0222" height="30" width="40" /></a>
-      <a href="https://instagram.com/puru0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puru0222" height="30" width="40" /></a>
-    </p>
-  </div>
-</div>
+### 🔄 Connect with me:
+<p>
+<a href="https://leetcode.com/puru0222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puru0222" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/puru0222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puru0222" height="30" width="40" /></a><a href="https://twitter.com/puru0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puru0222" height="30" width="40" /></a><a href="https://instagram.com/puru0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puru0222" height="30" width="40" /></a>
+</p>
 
 ---
-
 
 ### 🔧 Technologies and Tools:
 
