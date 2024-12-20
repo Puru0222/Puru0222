@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Purushotam Kumar</h1>
 
-I'm a **MERN Stack Developer** with a passion for building efficient and scalable web applications. I have solved over **600 DSA questions on LeetCode in C++**.
+<p align="center">
+I'm a **MERN Stack Developer**  with a passion for building efficient and scalable web applications. I have solved over **600 DSA questions on LeetCode in C++**.
+</p>
 
 ---
 
