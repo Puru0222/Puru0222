@@ -5,6 +5,7 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 ---
 
 ### 🔖 About Me:
+
 - **Education**: Pursuing B.Tech in Computer Science Engineering
 - **Location**: Indore, Madhya Pradesh (INDIA)
 - **Contributions**: 88 contributions in the last year
@@ -24,38 +25,67 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 ---
 
 ### 🔄 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/puru0222)
-- [Twitter](https://www.linkedin.com/in/puru0222)  
-- [LeetCode](https://leetcode.com/u/puru0222/)  
 
+- [LinkedIn](https://www.linkedin.com/in/puru0222)
+- [Twitter](https://www.linkedin.com/in/puru0222)
+- [LeetCode](https://leetcode.com/u/puru0222/)
 
 ---
 
 ### 🔧 Projects:
 
 #### **StudyNotion**
+
 - An EdTech platform designed for effective online learning and course management.
 
 #### **Game E-Sports Platform**
+
 - A dynamic and engaging platform for organizing and managing e-sports tournaments.
 
 #### **ShopEasy**
+
 - An e-commerce platform offering seamless shopping experiences.
 
 #### **File Upload Service**
+
 - Built a secure and efficient file-upload system using the MERN stack.
 
 ---
-
+<div align="center">
 ### 📊 GitHub Stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Puru0222&show_icons=true&theme=radical)
+</div>
 
+<br>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Puru0222&&theme=radical" alt="puru" /></div>
+<br>
+
+<div align="center">
 ### 🌐 Top Languages:
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Puru0222&layout=compact&theme=radical)
+</div>
 
-### 👁️ Visitor Count:
-![Visitor Count](https://komarev.com/ghpvc/?username=Puru0222&style=flat-square&color=blue)
-
+<div align="center">
+ <h1>👁️ Views and ❤ Followers</h1>
+<a href="https://github.com/Puru0222/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Puru0222">
+</a>
+<a href="https://github.com/Puru0222?tab=followers"><img src="https://img.shields.io/github/followers/Puru0222?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
 ---
 
-Thank you for visiting my GitHub profile! Feel free to reach out and connect.
+<br>
+
+ <!-- <p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+ </p> -->
+
+ <div style="background: linear-gradient(to right, #4facfe, #00f2fe); height: 150px;">
+    <svg viewBox="0 0 120 28" xmlns="http://www.w3.org/2000/svg">
+        <path d="M0 20L60 25L120 20V28H0V20Z" fill="#fff"></path>
+    </svg>
+</div>
+
+ <h3 align="center">Thank you for visiting my GitHub profile! Feel free to reach out and connect.</h3>
