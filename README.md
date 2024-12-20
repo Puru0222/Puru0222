@@ -57,11 +57,7 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Puru0222&theme=highcontrast)
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Puru0222&" alt="Puru0222" /></p>
-
-<div align="center"> <h3>🔥 GitHub Streak</h3> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puru0222&theme=highcontrast" alt="GitHub Streak" /> </div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Puru0222&theme=radical)
 
 ### 🌐 Top Languages:
 
@@ -76,14 +72,9 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 </div>
 ---
 
- <p align="center">
-  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
- </p>
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/10498744/211497763-7699ef8d-cce2-4ba0-95d9-d5a41cfaef1c.svg" alt="Gradient Header" />
-</p>
-
+</p> -->
 
  <h3 align="center">Thank you for visiting my GitHub profile! Feel free to reach out and connect.</h3>
 
