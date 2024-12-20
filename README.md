@@ -39,16 +39,15 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Puru0222&theme=radical)
 
-### 🟢 LeetCode Heatmap:
-
-<div align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=Puru0222&theme=dark" alt="LeetCode Heatmap" />
-</div>
-
-
 ### 🌐 Top Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Puru0222&layout=compact&theme=radical)
+
+### 🟢 LeetCode:
+
+<div >
+  <img src="https://leetcode-stats.vercel.app/api?username=Puru0222&theme=dark" alt="LeetCode Heatmap" />
+</div>
 
 <div align="center">
  <h1>👁️ Views and ❤ Followers</h1>
@@ -67,4 +66,3 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header" />
 </p>
-
