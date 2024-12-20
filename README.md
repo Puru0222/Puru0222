@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Purushotam Kumar</h1>
 
-I'm a **MERN Stack Developer** with a passion for building efficient and scalable web applications. Currently pursuing my **B.Tech in Computer Science Engineering** (7th semester) in Indore, I have solved over **600 DSA questions on LeetCode** and have completed DSA in C++. My expertise lies in **JavaScript**, **C++**, and the **MERN stack**, and I have worked on projects like StudyNotion (an EdTech platform) and a Game E-Sports platform.
+I'm a **MERN Stack Developer** with a passion for building efficient and scalable web applications. I have solved over **600 DSA questions on LeetCode in C++**.
 
 ---
 
@@ -31,26 +31,6 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 
 ---
 
-### 🔧 Projects:
-
-#### **StudyNotion**
-
-- An EdTech platform designed for effective online learning and course management.
-
-#### **Game E-Sports Platform**
-
-- A dynamic and engaging platform for organizing and managing e-sports tournaments.
-
-#### **ShopEasy**
-
-- An e-commerce platform offering seamless shopping experiences.
-
-#### **File Upload Service**
-
-- Built a secure and efficient file-upload system using the MERN stack.
-
----
-
 ### 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Puru0222&show_icons=true&theme=radical)
@@ -58,6 +38,13 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Puru0222&theme=radical)
+
+### 🟢 LeetCode Heatmap:
+
+<div align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=Puru0222&theme=radical" alt="LeetCode Heatmap" />
+</div>
+
 
 ### 🌐 Top Languages:
 
@@ -70,7 +57,6 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 </a>
 <a href="https://github.com/Puru0222?tab=followers"><img src="https://img.shields.io/github/followers/Puru0222?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
----
 
 <!-- <p align="center">
   <img src="https://user-images.githubusercontent.com/10498744/211497763-7699ef8d-cce2-4ba0-95d9-d5a41cfaef1c.svg" alt="Gradient Header" />
