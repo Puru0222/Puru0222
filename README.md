@@ -6,13 +6,6 @@ I'm a **MERN Stack Developer** with a passion for building efficient and scalabl
 
 ---
 
-### 🔖 About Me:
-
-- **Education**: Pursuing B.Tech in Computer Science Engineering
-- **Location**: Indore, Madhya Pradesh (INDIA)
-- **Contributions**: 88 contributions in the last year
-- **Organizations**: ![Mind Blowing Mornings](https://github.com/Mind-Blowing-Mornings)
-
 ### 🔄 Connect with me:
 <p>
 <a href="https://leetcode.com/puru0222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puru0222" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/puru0222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puru0222" height="30" width="40" /></a><a href="https://twitter.com/puru0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puru0222" height="30" width="40" /></a><a href="https://instagram.com/puru0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puru0222" height="30" width="40" /></a>
