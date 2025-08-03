@@ -8,6 +8,23 @@ I'm a <strong> MERN Stack Developer </strong> with a passion for building effici
 
 ---
 
+### 🌟 Featured Project
+
+<p align="center">
+  <a href="https://www.gamechallenger.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Live%20Project-%20GameChallenger.in-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Game Challenger">
+  </a>
+</p>
+
+> **Game Challenger** is an online eSports challenge platform where users can create, join, and win gaming challenges with real prize pools. It includes:
+> - Challenge creation and participation
+> - Auto-winner selection
+> - Secure login/signup
+> - Money deposit/withdrawal
+> - Admin dashboard and cron job handling
+
+---
+
 ### 🔄 Connect with me:
 
 <p>
@@ -61,11 +78,7 @@ I'm a <strong> MERN Stack Developer </strong> with a passion for building effici
 <a href="https://github.com/Puru0222?tab=followers"><img src="https://img.shields.io/github/followers/Puru0222?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
 
-<!-- <p align="center">
-  <img src="https://user-images.githubusercontent.com/10498744/211497763-7699ef8d-cce2-4ba0-95d9-d5a41cfaef1c.svg" alt="Gradient Header" />
-</p> -->
-
- <h3 align="center">Thank you for visiting my GitHub profile! Feel free to reach out and connect.</h3>
+<h3 align="center">Thank you for visiting my GitHub profile! Feel free to reach out and connect.</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header" />
