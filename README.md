@@ -132,7 +132,7 @@ const calculators = {
 
 </div>
 
-<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" />
+<img width="100%" src="https://raw.githubusercontent.com/Puru0222/fileUpload/759252c16023e6cdc2d99cbe542fdde281da13a4/config/felicity.gif" />
 
 ## ⚡ TECH ARSENAL
 
@@ -164,7 +164,7 @@ Coffee:
   - Status: Always brewing
 ```
 
-<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-393dc1a99bd0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=divider">
 
 ## 📊 SYSTEM METRICS
 
@@ -212,7 +212,7 @@ Coffee:
 
 </div>
 
-<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fe6d0881-7e90-4f5a-9e3e-1b6c9edac2dd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=divider">
 
 ## 🌐 CONNECT PROTOCOL
 
@@ -242,7 +242,7 @@ Coffee:
 
 </div>
 
-<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0c632e-0e3e-4d93-96e8-d744d8d85e13" />
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💭 RANDOM WISDOM
 
@@ -256,7 +256,7 @@ Coffee:
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🎧+Lofi+Hip+Hop+%E2%80%93+Perfect+for+coding;🎵+Synthwave+%E2%80%93+Futuristic+vibes;🎼+Classical+%E2%80%93+Complex+problem+solving;🎸+Rock+%E2%80%93+Debug+mode+activated"/>
 </div>
 
-<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bb2e1bb7-6b4c-468e-80c5-c68d7e59e67e" />
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 MISSION CONTROL
 
