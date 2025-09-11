@@ -3,37 +3,41 @@
 <h1 align="center">Hi 👋, I'm Purushotam Kumar</h1>
 
 <p align="center">
-I'm a <strong> MERN Stack Developer </strong> with a passion for building efficient and scalable web applications. I have solved over <strong> 600 DSA questions on LeetCode in C++ </strong>.
+I'm a <strong>MERN Stack Developer</strong> passionate about building efficient, scalable web applications. I have solved over <strong>600 DSA problems in C++ on LeetCode</strong>.
 </p>
 
 ---
 
-### 🌟 Featured Project
+### 🌟 Featured Projects
+
+| Project                  | Description                                                                                                          | Link                                                     |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| 🌐 QuickLook             | A blog and news mix site focused on trending updates, tech, and useful articles.                                     | [Visit Site](https://quicklook-ashy.vercel.app/)         |
+| 📂 TinyFileLab           | A collection of useful file tools: PDF compressor, JPG to PDF converter, image compressor, and more.                 | [Visit Site](https://tinyfilelab.vercel.app/)            |
+| 🧮 Age Calculator & More | A work-in-progress multi-purpose calculator site with fully working age calculator, and pending BMI, EMI, GST tools. | [Visit Site](https://age-calculator-dun-two.vercel.app/) |
+
+---
+
+### 🔄 Connect with Me
 
 <p align="center">
-  <a href="https://www.gamechallenger.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Live%20Project-%20GameChallenger.in-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Game Challenger">
+  <a href="https://leetcode.com/puru0222/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/puru0222/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://twitter.com/puru0222" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/puru0222" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
 
-> **Game Challenger** is an online eSports challenge platform where users can create, join, and win gaming challenges with real prize pools. It includes:
-> - Challenge creation and participation
-> - Auto-winner selection
-> - Secure login/signup
-> - Money deposit/withdrawal
-> - Admin dashboard and cron job handling
-
 ---
 
-### 🔄 Connect with me:
-
-<p>
-<a href="https://leetcode.com/puru0222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puru0222" height="30" width="40" /></a><a href="https://www.linkedin.com/in/puru0222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puru0222" height="30" width="40" /></a><a href="https://twitter.com/puru0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puru0222" height="30" width="40" /></a><a href="https://instagram.com/puru0222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puru0222" height="30" width="40" /></a>
-</p>
-
----
-
-### 🔧 Technologies and Tools:
+### 🛠️ Technologies and Tools
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
@@ -52,7 +56,7 @@ I'm a <strong> MERN Stack Developer </strong> with a passion for building effici
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Puru0222&show_icons=true&theme=radical)
 
@@ -60,26 +64,33 @@ I'm a <strong> MERN Stack Developer </strong> with a passion for building effici
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Puru0222&theme=radical)
 
-### 🌐 Top Languages:
+### 🌐 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Puru0222&layout=compact&theme=radical)
+![Top Languages](https://img.shields.io/github-readme-stats/api/top-langs/?username=Puru0222&layout=compact&theme=radical)
 
-### 🟢 LeetCode:
+### 🟢 LeetCode Stats
 
-<div >
-  <img src="https://leetcode-stats.vercel.app/api?username=Puru0222&theme=dark" alt="LeetCode Heatmap" />
+<div>
+  <img src="https://leetcode-stats.vercel.app/api?username=Puru0222&theme=dark" alt="LeetCode Stats" />
 </div>
+
+---
+
+### 👁️ Profile Views & Followers
 
 <div align="center">
- <h1>👁️ Views and ❤ Followers</h1>
-<a href="https://github.com/Puru0222/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Puru0222">
-</a>
-<a href="https://github.com/Puru0222?tab=followers"><img src="https://img.shields.io/github/followers/Puru0222?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="https://github.com/Puru0222/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Puru0222" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Puru0222?tab=followers">
+    <img src="https://img.shields.io/github/followers/Puru0222?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
 </div>
 
-<h3 align="center">Thank you for visiting my GitHub profile! Feel free to reach out and connect.</h3>
+---
+
+<h3 align="center">Thank you for visiting my GitHub profile! Feel free to connect. 😊</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header"/>
 </p>
