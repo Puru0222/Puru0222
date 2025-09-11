@@ -1,251 +1,303 @@
-![MasterHead](https://raw.githubusercontent.com/Puru0222/fileUpload/759252c16023e6cdc2d99cbe542fdde281da13a4/config/felicity.gif)
-
+<!-- Animated Header with Matrix Effect -->
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Purushotam+Kumar!;" />
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PURUSHOTAM%20KUMAR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
+<!-- Typing Animation with Multiple Lines -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=4000&lines=MERN+Stack+Developer;Problem+Solver;600%2B+DSA+Problems+Solved;Building+Scalable+Web+Applications;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Welcome+to+my+digital+realm+%F0%9F%8C%90;Where+code+meets+creativity+%E2%9A%A1"/>
 </div>
 
 <br/>
 
+<!-- Dynamic Profile Views Counter -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://komarev.com/ghpvc/?username=Puru0222&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
-## 🚀 About Me
+<br/>
 
-```javascript
-const purushotam = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "C++", "Python", "HTML", "CSS"],
-  askMeAbout: ["Web Development", "Tech", "App Development", "DSA"],
-  technologies: {
-    frontend: ["React", "Redux", "HTML5", "CSS3", "TailwindCSS", "JavaScript"],
-    backend: ["Node.js", "Express.js", "MongoDB"],
-    devOps: ["Git", "GitHub", "Postman"],
-    databases: ["MongoDB", "MySQL"],
-    misc: ["Firebase", "Socket.IO", "REST APIs"],
-  },
-  architecture: [
-    "Serverless Architecture",
-    "Progressive Web Apps",
-    "Single Page Applications",
-  ],
-  currentFocus: "Building full-stack applications with modern technologies",
-  funFact: "I solve DSA problems for breakfast! 🧠",
-};
+<!-- ASCII Art Terminal -->
+<div align="center">
+<pre>
+████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     
+╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     
+   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     
+   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     
+   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
+   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+</pre>
+</div>
+
+<!-- Glitch Effect Divider -->
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+## 🧬 SYSTEM INITIALIZATION...
+
+```bash
+┌─[purushotam@terminal]─[~/dev]
+└─$ whoami
+MERN Stack Developer | Problem Solving Enthusiast | Code Architect
+
+┌─[purushotam@terminal]─[~/dev]
+└─$ cat skills.json
+{
+  "languages": ["JavaScript", "C++", "Python", "TypeScript"],
+  "frontend": ["React.js", "Next.js", "Vue.js", "Svelte"],
+  "backend": ["Node.js", "Express.js", "GraphQL", "REST APIs"],
+  "database": ["MongoDB", "PostgreSQL", "Redis", "Firebase"],
+  "tools": ["Docker", "Kubernetes", "AWS", "Git", "Linux"],
+  "achievements": {
+    "leetcode_problems": 600,
+    "github_repos": 25,
+    "years_coding": 3,
+    "coffee_consumed": "∞"
+  }
+}
+
+┌─[purushotam@terminal]─[~/dev]
+└─$ echo $MOTTO
+"Code is poetry written in logic" 🎭
 ```
 
-<br/>
+<!-- Animated Snake eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Puru0222/Puru0222/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Puru0222/Puru0222/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Puru0222/Puru0222/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" />
+
+## 🚀 PROJECT SHOWCASE
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🌟 Featured Projects
-
-<table align="center">
+  
+<!-- Project Cards with Hover Effects -->
+<table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
 ### 🌐 QuickLook
 
-**A Modern Blog & News Platform**
+_Next-Gen Blog Platform_
 
-- Trending updates and tech articles
-- Responsive design with modern UI
-- SEO optimized content delivery
+```javascript
+const features = {
+  tech: ["React", "Node.js", "MongoDB"],
+  highlights: ["SEO Optimized", "Dark Mode", "PWA"],
+  status: "🟢 Live",
+};
+```
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://quicklook-ashy.vercel.app/)
-
-</td>
-<td width="50%">
-
-### 📂 TinyFileLab
-
-**Complete File Management Suite**
-
-- PDF compression & conversion tools
-- Image optimization utilities
-- Multi-format file converter
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white)](https://tinyfilelab.vercel.app/)
+[![Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://quicklook-ashy.vercel.app/)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🧮 Multi-Purpose Calculator
+### 📁 TinyFileLab
 
-**Advanced Calculator Platform**
+_Swiss Army Knife for Files_
 
-- Age Calculator (Fully Working)
-- BMI, EMI, GST Tools (In Progress)
-- Clean, intuitive interface
+```javascript
+const capabilities = {
+  compress: ["PDF", "Images", "Videos"],
+  convert: ["JPG↔PDF", "Format Changes"],
+  optimize: "Smart Algorithms",
+};
+```
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-45B7D1?style=for-the-badge&logo=vercel&logoColor=white)](https://age-calculator-dun-two.vercel.app/)
+[![Demo](https://img.shields.io/badge/🛠️_Try_Now-4ECDC4?style=for-the-badge&logoColor=white)](https://tinyfilelab.vercel.app/)
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🚀 More Projects Coming Soon...
+### 🧮 CalcHub
 
-**Currently Building:**
+_Mathematical Playground_
 
-- E-commerce platform
-- Real-time chat application
-- Portfolio management system
+```javascript
+const calculators = {
+  ready: ["Age", "BMI", "Percentage"],
+  coming: ["Loan EMI", "GST", "Tax"],
+  ui: "Minimalist & Fast",
+};
+```
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Puru0222)
+[![Demo](https://img.shields.io/badge/🔢_Calculate-45B7D1?style=for-the-badge&logoColor=white)](https://age-calculator-dun-two.vercel.app/)
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🛠️ Tech Stack & Tools
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" />
+
+## ⚡ TECH ARSENAL
+
+<div align="center">
+
+<!-- Animated Tech Stack -->
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,cpp,git,docker,aws,linux,vscode&theme=dark&perline=7" />
+
+</div>
+
+### 🎯 Current Battle Station Setup
+
+```yaml
+OS:
+  - Primary: Windows 11 Pro
+  - Secondary: Ubuntu 22.04 LTS
+Editor:
+  - VS Code with 42+ extensions
+  - Vim for quick edits
+Terminal:
+  - Windows Terminal + PowerShell
+  - Zsh with Oh My Zsh
+Browser:
+  - Chrome DevTools Master
+  - Firefox for testing
+Coffee:
+  - Type: Dark Roast ☕
+  - Consumption: 4-6 cups/day
+  - Status: Always brewing
+```
+
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d33-987a-393dc1a99bd0" />
+
+## 📊 SYSTEM METRICS
 
 <div align="center">
   
-### 💻 Programming Languages
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
+<!-- GitHub Stats with Custom Theme -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Puru0222&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9"/>
 
-### 🎨 Frontend Development
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puru0222&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)]()
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
+</div>
 
-### 🔧 Backend Development
+<!-- Animated Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puru0222&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9&area=true&hide_border=true&custom_title=Coding%20Activity%20Graph" width="100%"/>
+</div>
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Puru0222&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
 
-### ⚙️ Tools & Platform
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" />
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
-[![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+## 🎮 LEETCODE ARENA
+
+<div align="center">
+  
+<!-- LeetCode Stats with Animation -->
+<img src="https://leetcode-stats.vercel.app/api?username=Puru0222&theme=tokyonight" alt="LeetCode Stats"/>
+
+</div>
+
+### 🏆 Problem Solving Stats
+
+<div align="center">
+
+```diff
++ Total Problems Solved: 600+
++ Favorite Language: C++
++ Current Rating: Climbing 📈
++ Daily Goal: 2-3 problems
++ Streak Record: 45 days
+```
+
+</div>
+
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fe6d0881-7e90-4f5a-9e3e-1b6c9edac2dd" />
+
+## 🌐 CONNECT PROTOCOL
+
+<div align="center">
+  
+<!-- Social Media with Hover Effects -->
+<a href="https://linkedin.com/in/puru0222" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+</a>
+<a href="https://twitter.com/puru0222" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+</a>
+<a href="https://leetcode.com/puru0222" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/>
+</a>
+<a href="https://instagram.com/puru0222" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+</a>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+### 📧 Ping Me: `purusho1428@gmail.com`
+
 </div>
 
-## 📊 GitHub Analytics
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0c632e-0e3e-4d93-96e8-d744d8d85e13" />
+
+## 💭 RANDOM WISDOM
 
 <div align="center">
-  <a href="https://github.com/Puru0222">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Puru0222&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Puru0222">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Puru0222&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 </div>
 
+## 🎵 CURRENTLY VIBING TO
+
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Puru0222&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🎧+Lofi+Hip+Hop+%E2%80%93+Perfect+for+coding;🎵+Synthwave+%E2%80%93+Futuristic+vibes;🎼+Classical+%E2%80%93+Complex+problem+solving;🎸+Rock+%E2%80%93+Debug+mode+activated"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Puru0222">
-    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Puru0222&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" />
-  </a>
-</div>
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bb2e1bb7-6b4c-468e-80c5-c68d7e59e67e" />
 
-<br/>
+## 🚀 MISSION CONTROL
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Purushotam Kumar";
+    this.role = "Full Stack Developer";
+    this.language_spoken = ["Hindi", "English"];
+    this.code = {
+      frontend: ["React", "Next.js", "TypeScript"],
+      backend: ["Node.js", "Express", "MongoDB"],
+      tools: ["Git", "Docker", "AWS", "VS Code"],
+      architecture: ["microservices", "event-driven", "design systems"],
+    };
+  }
 
-## 🏆 LeetCode Progress
+  currentFocus() {
+    return "Building scalable web applications & solving complex problems";
+  }
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Puru0222?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats" />
-</div>
+  challenge() {
+    return "600+ LeetCode problems and counting...";
+  }
 
-<div align="center">
-  <h3>🎯 Problem Solving Journey</h3>
-  <img src="https://img.shields.io/badge/Total_Problems_Solved-600%2B-brightgreen?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
-</div>
+  funFact() {
+    return "I debug in my dreams! 🐛💤";
+  }
+}
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://leetcode.com/puru0222/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/puru0222/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/puru0222" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/puru0222" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
-<br/>
+const puru = new Developer();
+console.log(puru.challenge());
+```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+  
+<!-- Visitor Counter with Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn"/>
 
-## 📈 Profile Stats
+### ⭐ Thanks for stopping by! Let's build something amazing together! ⭐
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Puru0222&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Puru0222?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Puru0222?label=Stars&style=social" alt="GitHub Stars" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Coffee+%2B+Code+%3D+Magic+%E2%9C%A8"/>
 
-<br/>
-
-<div align="center">
-  <h2>💭 Random Dev Quote</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<div align="center">
-  <h3>🎉 Thanks for visiting my profile! Let's build something amazing together! 🚀</h3>
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header"/>
-</div>
-
-<div align="center">
-  <h4>⭐ If you like my work, consider giving a star to my repositories! ⭐</h4>
 </div>
