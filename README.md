@@ -1,9 +1,7 @@
-<!-- Animated Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=PURUSHOTAM%20KUMAR&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-<!-- Dynamic Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%7C+600%2B+LeetCode+%F0%9F%A7%A9;Building+Digital+Experiences+%E2%9A%A1"/>
 </div>
@@ -27,112 +25,62 @@
 
 ### 🌐 QuickLook
 
-**Next-Generation Blog Platform**
-
-```javascript
-{
-  stack: "React + Node.js + MongoDB",
-  features: [
-    "SEO Optimized",
-    "Dark Mode Support",
-    "Progressive Web App"
-  ],
-  status: "🟢 Production"
-}
-```
+**A Fast & Minimal Trending News Platform**
 
 **Key Highlights:**
 
-- ⚡ Lightning-fast performance
-- 🎨 Modern, responsive UI
-- 🔒 Secure authentication
+- ⚡ Real-time trending news & blog updates
+- 📝 Short, easy-to-read posts
+- 📱 Fully responsive and lightweight UI
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://quicklook-ashy.vercel.app/)
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Puru0222/quicklook)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📁 TinyFileLab
 
-**Universal File Manipulation Tool**
-
-```javascript
-{
-  capabilities: "Compress • Convert • Optimize",
-  formats: [
-    "PDF Processing",
-    "Image Conversion",
-    "Video Compression"
-  ],
-  algorithm: "Smart AI-Powered"
-}
-```
+**All-in-One File Utility Toolkit**
 
 **Key Highlights:**
 
-- 🗜️ Powerful compression engine
-- 🔄 Multi-format conversion
-- 🎯 Batch processing support
+- 🗜️ PDF & image compression
+- 🧾 JPG to PDF conversion
+- 🧭 QR code generator and more
 
 [![Try Now](https://img.shields.io/badge/🛠️_Try_Now-4ECDC4?style=for-the-badge&logoColor=white)](https://tinyfilelab.vercel.app/)
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Puru0222/tinyfilelab)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧮 CalcHub
+### 🧮 CalcMitra
 
 **Multi-Purpose Calculator Suite**
 
-```javascript
-{
-  calculators: [
-    "Age Calculator",
-    "BMI Calculator",
-    "Percentage Calculator"
-  ],
-  roadmap: ["EMI", "GST", "Tax"],
-  design: "Minimalist & Intuitive"
-}
-```
-
 **Key Highlights:**
 
-- 📊 Multiple calculator types
-- 💡 Clean, intuitive interface
-- 📱 Mobile-first design
+- 📊 Age, BMI, Interest (Simple & Compound), ROI, Mortgage, Percentage, CGPA & more
+- 💡 Clean and intuitive interface
+- 📱 Mobile-first responsive design
 
-[![Calculate](https://img.shields.io/badge/🔢_Calculate-45B7D1?style=for-the-badge&logoColor=white)](https://age-calculator-dun-two.vercel.app/)
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Puru0222/calchub)
+[![Calculate](https://img.shields.io/badge/🔢_Calculate-45B7D1?style=for-the-badge&logoColor=white)](https://calcmitra.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⏰ Clock
 
-**Elegant Time Display Application**
-
-```javascript
-{
-  type: "Digital Clock Interface",
-  features: [
-    "Real-time Updates",
-    "Lisen Radio",
-  ],
-}
-```
+**Modern Clock with Global Radio Integration**
 
 **Key Highlights:**
 
-- 🕐 Sleek, modern design
-- 🌍 World clock functionality
-- 🎨 Customizable appearance
+- 🕐 Elegant clock with customizable themes
+- 🌍 World radio stations in a hidden slidebar
+- 👥 Login system with friend ping feature
 
 [![View Live](https://img.shields.io/badge/⏰_View_Live-FF9500?style=for-the-badge&logoColor=white)](https://clock-mu-ten.vercel.app/)
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Puru0222/clock)
 
 </td>
 </tr>
@@ -190,11 +138,6 @@
 <div align="center">
   
 <img src="https://leetcard.jacoblin.cool/Puru0222?theme=dark&font=Roboto&ext=contest&border=0&radius=10" />
-
-### 🎯 Competitive Programming Journey
-
-<img src="https://img.shields.io/badge/Problems_Solved-600%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Contests_Participated-Active-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </div>
 
