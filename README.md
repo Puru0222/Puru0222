@@ -128,7 +128,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Puru0222&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puru0222&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=FF6B6B&currStreakLabel=C9D1D9&cache_bust=2" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 LEETCODE STATS
@@ -139,7 +139,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=divider">
+<br/>
 
 ## 🌐 CONNECT WITH ME
 
