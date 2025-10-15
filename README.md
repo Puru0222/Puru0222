@@ -128,10 +128,8 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Puru0222&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Puru0222&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=divider">
 
 ## 🏆 LEETCODE STATS
 
@@ -167,8 +165,6 @@
 
 <br/>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 👨‍💻 ABOUT ME
 
 ```javascript
@@ -200,8 +196,6 @@ class Developer {
 const puru = new Developer();
 ```
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 💭 DAILY INSPIRATION
 
 <div align="center">
@@ -209,12 +203,6 @@ const puru = new Developer();
 </div>
 
 <br/>
-
-## 🎵 CODING SOUNDTRACK
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=🎧+Lofi+Hip+Hop+–+Deep+Focus+Mode;🎵+Synthwave+–+Futuristic+Coding+Vibes;🎼+Classical+–+Complex+Problem+Solving;🎸+Progressive+Rock+–+Debug+Sessions;🎹+Ambient+–+Late+Night+Coding"/>
-</div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
