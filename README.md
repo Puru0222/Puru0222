@@ -24,15 +24,15 @@
   <tr>
     <td width="50%" valign="top" style="min-width:300px;">
 
-### 🌐 QuickLook
+### 🌐 Prachika
 
-**A Fast & Minimal Trending News Platform**
+**A Smart & Minimal Utility Platform**
 
-- ⚡ Real-time trending news & blog updates
-- 📝 Short, easy-to-read posts
+- ⚡ Fast and reliable web tools
+- 📝 Clean & user-friendly interface
 - 📱 Fully responsive and lightweight UI
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://quicklook-ashy.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://pracika.vercel.app/)
 
 </td>
 <td width="50%" valign="top" style="min-width:300px;">
