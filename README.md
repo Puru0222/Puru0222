@@ -4,15 +4,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%7C+600%2B+LeetCode+%F0%9F%A7%A9;Building+Digital+Experiences+%E2%9A%A1&cache_bust=1"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Full+Stack+Developer+%F0%9F%92%BB;&cache_bust=1"/>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Puru0222&style=for-the-badge&color=blueviolet&label=VISITORS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Puru0222?style=for-the-badge&color=blue&labelColor=1a1a1a" alt="Followers"/>
 </div>
-
-<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 ---
 
@@ -85,55 +83,7 @@
 
 ---
 
-## 💻 TECH STACK
-
-<div align="center">
-
-### Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java&theme=dark" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&theme=dark" />
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis&theme=dark" />
-
-### Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,figma&theme=dark" />
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=divider&cache_bust=1">
-
----
-
-## 📊 GITHUB ANALYTICS
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Puru0222&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&ring_color=79C0FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puru0222&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Puru0222&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-</div>
-
-<!-- ✅ Streak stats with cache bust and stable endpoint -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Puru0222&theme=tokyonight&hide_border=true&background=0D1117&ring=79C0FF&fire=FF6B6B&currStreakLabel=C9D1D9&cache_bust=3" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 LEETCODE STATS
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Puru0222?theme=dark&font=Roboto&ext=contest&border=0&radius=10&cache_bust=1" />
-</div>
 
 ---
 
