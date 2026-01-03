@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top" style="min-width:300px;">
+    <td width="80%" valign="top" style="min-width:300px;">
 
 ### 🌐 Prachika
 
@@ -33,7 +33,7 @@
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://pracika.vercel.app/)
 
 </td>
-<td width="50%" valign="top" style="min-width:300px;">
+<td width="80%" valign="top" style="min-width:300px;">
 
 ### 📁 TinyFileLab
 
@@ -48,7 +48,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="min-width:300px;">
+<td width="80%" valign="top" style="min-width:300px;">
 
 ### 🧮 CalcMitra
 
@@ -61,7 +61,7 @@
 [![Calculate](https://img.shields.io/badge/🔢_Calculate-45B7D1?style=for-the-badge&logoColor=white)](https://calcmitra.vercel.app/)
 
 </td>
-<td width="50%" valign="top" style="min-width:300px;">
+<td width="80%" valign="top" style="min-width:300px;">
 
 ### ⏰ Clock
 
@@ -81,11 +81,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/Puru0222/fileUpload/759252c16023e6cdc2d99cbe542fdde281da13a4/config/felicity.gif" />
 
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=divider&cache_bust=1">
-
----
 
 ## 🌐 CONNECT WITH ME
 
