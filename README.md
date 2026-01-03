@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td width="80%" valign="top" style="min-width:300px;">
+    <td width="50%" valign="top" style="min-width:300px;">
 
 ### 🌐 Prachika
 
@@ -33,7 +33,7 @@
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://pracika.vercel.app/)
 
 </td>
-<td width="80%" valign="top" style="min-width:300px;">
+<td width="50%" valign="top" style="min-width:300px;">
 
 ### 📁 TinyFileLab
 
@@ -48,7 +48,7 @@
 </td>
 </tr>
 <tr>
-<td width="80%" valign="top" style="min-width:300px;">
+<td width="50%" valign="top" style="min-width:300px;">
 
 ### 🧮 CalcMitra
 
@@ -61,7 +61,7 @@
 [![Calculate](https://img.shields.io/badge/🔢_Calculate-45B7D1?style=for-the-badge&logoColor=white)](https://calcmitra.vercel.app/)
 
 </td>
-<td width="80%" valign="top" style="min-width:300px;">
+<td width="50%" valign="top" style="min-width:300px;">
 
 ### ⏰ Clock
 
@@ -93,7 +93,6 @@
   <a href="mailto:purusho1428@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
----
 
 ## 👨‍💻 ABOUT ME
 
